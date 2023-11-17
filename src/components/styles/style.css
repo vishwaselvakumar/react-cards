@@ -1,0 +1,24 @@
+.nav-items{
+    color: white;
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-left: 200px;
+}
+.nav-body{
+    background-color: rgb(160, 141, 141);
+}
+.nav-img{
+    height: 60px;
+    border-radius: 50%;
+}
+@media screen and (max-width: 480px) {
+    .nav-items{
+        color: white;
+        font-size: 1.2rem;
+    }
+}
+
+/* CARD  */
+.card-body{
+    margin: 20px;
+}
