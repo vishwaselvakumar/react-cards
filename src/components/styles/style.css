@@ -1,13 +1,13 @@
 .nav-items{
     color: white;
-    padding: 10px;
-    font-size: 1.2rem;
+    padding: 5px;
+    font-size: 1rem;
     margin-left: 200px;
 }
 .nav-body{
-    background-color: rgb(160, 141, 141);
+    background-color: rgb(4, 197, 33);
 }
-.nav-img{
+/* .nav-img{
     height: 60px;
     border-radius: 50%;
 }
@@ -16,7 +16,7 @@
         color: white;
         font-size: 1.2rem;
     }
-}
+} */
 
 /* CARD  */
 .card-body{
