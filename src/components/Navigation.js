@@ -6,7 +6,6 @@ const Navigation =()=> {
   return (
     <Navbar expand="lg" className=" nav-body">
       <Container>
-        {/* <Navbar.Brand href="#"> <img className='nav-img' src={'https://www.shutterstock.com/image-vector/travel-logo-icon-vector-design-260nw-1028106712.jpg'} /> </Navbar.Brand> */}
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
